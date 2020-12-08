@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
  
 classifiers = [
-  'Developer :: Montasim -Al- Mamun'
   'Development Status :: Closed/Stable',
   'Intended Audience :: Education',
   'Operating System :: Microsoft :: Windows :: Windows 10',
