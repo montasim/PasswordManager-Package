@@ -9,9 +9,10 @@
 - 6. take the previous password and return a secure password
 
 
-### Check PasswordManager On GitHub:
-    https://github.com/montasim/SecurePasswordPython
+<h2> <a href="https://github.com/montasim/SecurePasswordPython"> Check PasswordManager On GitHub </a> </h2>
 
+
+<br>
 
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎  -->
 <h2 align="right"><b> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
