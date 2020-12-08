@@ -14,7 +14,7 @@ setup(
   version='0.0.1',
   description='A simple password generator made with python.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/montasim/PasswordManager-Package',  
   author='Montasim -Al- Mamun',
   author_email='montasimmamun@gmail.com',
   license='MIT', 
