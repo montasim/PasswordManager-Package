@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+PasswordManager/__init__.py
+PasswordManager.egg-info/PKG-INFO
+PasswordManager.egg-info/SOURCES.txt
+PasswordManager.egg-info/dependency_links.txt
+PasswordManager.egg-info/top_level.txt

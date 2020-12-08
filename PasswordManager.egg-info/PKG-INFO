@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: PasswordManager
+Version: 0.0.1
+Summary: A simple password generator made with python.
+Home-page: https://github.com/montasim/PasswordManager-Package
+Author: Montasim -Al- Mamun
+Author-email: montasimmamun@gmail.com
+License: MIT
+Description: A simple password generator made with python.
+        
+        Change Log
+        ==========
+        
+        0.0.1 (08/12/2020)
+        -------------------
+        - First Release
+        
+Keywords: password manager
+Platform: UNKNOWN
+Classifier: Developer :: Montasim -Al- MamunDevelopment Status :: Closed/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
