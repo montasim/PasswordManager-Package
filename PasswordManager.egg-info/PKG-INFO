@@ -17,7 +17,7 @@ Description: A simple password generator made with python.
         
 Keywords: password manager
 Platform: UNKNOWN
-Classifier: Developer :: Montasim -Al- MamunDevelopment Status :: Closed/Stable
+Classifier: Development Status :: Open/Stable
 Classifier: Intended Audience :: Education
 Classifier: Operating System :: Microsoft :: Windows :: Windows 10
 Classifier: License :: OSI Approved :: MIT License
